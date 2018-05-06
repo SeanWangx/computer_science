@@ -4,4 +4,4 @@
 
 [1.绪论](https://github.com/SeanWangx/computer_science/blob/master/DataStruct/1.%E7%BB%AA%E8%AE%BA.md)
 
-## 计算机组成远离
+## 计算机组成原理
